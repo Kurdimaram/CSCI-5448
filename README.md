@@ -12,5 +12,4 @@ Text preprocessing include:<br/>
 - Frequency Distribution
 - Chunking
 - Sentiment Analysis<br/>
-I have included the ,<br/>
-presentation_code.html, presentation_code.ipynb , and presentation_code.py
+I have included presentation_code.ipynb , and presentation_code.py
