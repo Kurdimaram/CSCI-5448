@@ -13,5 +13,5 @@ Text preprocessing include:<br/>
 - Chunking
 - Sentiment Analysis<br/>
 I have included the ,<br/>
-[presentation_code.html](file:///Users/maramkurdi/Desktop/presentation_code.html)<br/>
+[presentation_code.html](///Users/maramkurdi/Desktop/presentation_code.html)<br/>
  presentation_code.ipynb , and presentation_code.py
