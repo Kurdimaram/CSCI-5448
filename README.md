@@ -11,6 +11,7 @@ Text preprocessing include:<br/>
 - Part of Speech Tagging
 - Frequency Distribution
 - Chunking
-- Sentiment Analysis
-[I'm an inline-style link](https://www.google.com)
-I have included the [presentation_code.html](file:///Users/maramkurdi/Desktop/presentation_code.html "Graduate Presentation Code") , presentation_code.ipynb , and presentation_code.py
+- Sentiment Analysis<br/>
+I have included the ,
+[presentation_code.html](file:///Users/maramkurdi/Desktop/presentation_code.html)
+ presentation_code.ipynb , and presentation_code.py
