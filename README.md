@@ -1,5 +1,4 @@
-# CSCI-5448 - Graduate Presentation
-- Maram Kurdi
+# CSCI-5448 - Graduate Presentation - Maram Kurdi
 For the graduate presentation I wrote my code on Jupyter notebooks (ipython) so that it will be more organized. 
 Natural Language Toolkit (NLTK)
 - The code will ask the user to enter a text in order to preprocess it for nay NLP tasks
