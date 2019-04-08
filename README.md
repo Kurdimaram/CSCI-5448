@@ -12,6 +12,6 @@ Text preprocessing include:<br/>
 - Frequency Distribution
 - Chunking
 - Sentiment Analysis<br/>
-I have included the ,
-[presentation_code.html](file:///Users/maramkurdi/Desktop/presentation_code.html)
+I have included the ,<br/>
+[presentation_code.html](file:///Users/maramkurdi/Desktop/presentation_code.html)<br/>
  presentation_code.ipynb , and presentation_code.py
